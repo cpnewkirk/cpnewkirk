@@ -1,4 +1,4 @@
-## Hi there 👋
+## A warm welcome to all visiting! 👋
 
 I'm **Christian**, a Full Stack Software Engineer with a background in Mechanical Engineering, building scalable, user-focused applications.
 
