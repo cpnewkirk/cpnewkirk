@@ -40,8 +40,8 @@ I'm **Christian**, a Full Stack Software Engineer with a background in Mechanica
 - Tackled complex logic challenges by refactoring tutorial-based code into reusable structures  
 - Tested with 10 users, identifying performance and usability improvements across gameplay modes  
 
-🔗 Play here: https://cpnewkirk.github.io/myGame/ 
-🔗 Repo: https://github.com/cpnewkirk/myGame  
+🔗 Play here: https://cpnewkirk.github.io/myGame/  
+🔗 Repo: https://github.com/cpnewkirk/myGame 
 
 ---
 
